@@ -20,6 +20,3 @@ npm cache clean --force
 ```
 npm start
 ```
-
-## Vídeo demonstrativo:
-<video src="video/video-jogo-da-velha.mp4" width="320" height="240" controls></video>
